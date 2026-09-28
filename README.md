@@ -128,3 +128,4 @@ repositories {
 - Локальный кэш: `~/.gradle/caches`
 - Центральный: Maven Central
 - Приватный: Nexus / Artifactory
+Изменение
